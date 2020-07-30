@@ -1,3 +1,8 @@
+'''
+This module contains functions that are mainly wrappers for functions described at:
+https://www.bd-econ.com/blsapi.html
+'''
+
 import pandas as pd
 import requests
 import json
@@ -65,8 +70,8 @@ def get_bls_id_dicts(bls_fips, prefix, suffix):
 
     # Using items() + len() + list slicing 
     # Split dictionary by half 
-    bls_dict1 = dict(list(bls_dict.items())[len(bls_dict)//2:]) 
-    bls_dict2 = dict(list(bls_dict.items())[:len(bls_dict)//2])
+    bls_dict1 = dict(list(bls_dict.items())[:len(bls_dict)//2]) 
+    bls_dict2 = dict(list(bls_dict.items())[len(bls_dict)//2:])
 
     return bls_dict1,bls_dict2
 

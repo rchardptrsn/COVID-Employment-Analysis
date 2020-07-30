@@ -1,0 +1,181 @@
+Date,State,Pct_Unemployed
+2019-01-01,California,4.8
+2019-02-01,California,4.5
+2019-03-01,California,4.5
+2019-04-01,California,3.8
+2019-05-01,California,3.6
+2019-06-01,California,4.1
+2019-07-01,California,4.4
+2019-08-01,California,4.2
+2019-09-01,California,3.6
+2019-10-01,California,3.7
+2019-11-01,California,3.7
+2019-12-01,California,3.7
+2020-01-01,California,4.3
+2020-02-01,California,4.3
+2020-03-01,California,5.8
+2020-04-01,California,16.2
+2020-05-01,California,16.0
+2020-06-01,California,15.1
+2019-01-01,Delaware,3.9
+2019-02-01,Delaware,3.8
+2019-03-01,Delaware,3.7
+2019-04-01,Delaware,3.5
+2019-05-01,Delaware,3.4
+2019-06-01,Delaware,4.1
+2019-07-01,Delaware,4.1
+2019-08-01,Delaware,4.1
+2019-09-01,Delaware,3.9
+2019-10-01,Delaware,3.8
+2019-11-01,Delaware,3.5
+2019-12-01,Delaware,3.5
+2020-01-01,Delaware,4.2
+2020-02-01,Delaware,4.0
+2020-03-01,Delaware,5.0
+2020-04-01,Delaware,14.8
+2020-05-01,Delaware,15.5
+2020-06-01,Delaware,12.7
+2019-01-01,Hawaii,2.9
+2019-02-01,Hawaii,2.7
+2019-03-01,Hawaii,2.7
+2019-04-01,Hawaii,2.6
+2019-05-01,Hawaii,2.6
+2019-06-01,Hawaii,3.3
+2019-07-01,Hawaii,2.8
+2019-08-01,Hawaii,2.7
+2019-09-01,Hawaii,2.8
+2019-10-01,Hawaii,2.6
+2019-11-01,Hawaii,2.6
+2019-12-01,Hawaii,2.2
+2020-01-01,Hawaii,2.9
+2020-02-01,Hawaii,2.7
+2020-03-01,Hawaii,2.3
+2020-04-01,Hawaii,23.6
+2020-05-01,Hawaii,23.4
+2020-06-01,Hawaii,14.4
+2019-01-01,Illinois,5.3
+2019-02-01,Illinois,4.7
+2019-03-01,Illinois,4.4
+2019-04-01,Illinois,3.6
+2019-05-01,Illinois,3.5
+2019-06-01,Illinois,4.1
+2019-07-01,Illinois,4.2
+2019-08-01,Illinois,4.0
+2019-09-01,Illinois,3.5
+2019-10-01,Illinois,3.5
+2019-11-01,Illinois,3.4
+2019-12-01,Illinois,3.5
+2020-01-01,Illinois,4.0
+2020-02-01,Illinois,3.5
+2020-03-01,Illinois,4.2
+2020-04-01,Illinois,16.8
+2020-05-01,Illinois,14.8
+2020-06-01,Illinois,14.6
+2019-01-01,Massachusetts,3.7
+2019-02-01,Massachusetts,3.4
+2019-03-01,Massachusetts,3.3
+2019-04-01,Massachusetts,2.7
+2019-05-01,Massachusetts,2.9
+2019-06-01,Massachusetts,3.1
+2019-07-01,Massachusetts,3.1
+2019-08-01,Massachusetts,2.8
+2019-09-01,Massachusetts,2.7
+2019-10-01,Massachusetts,2.4
+2019-11-01,Massachusetts,2.3
+2019-12-01,Massachusetts,2.4
+2020-01-01,Massachusetts,3.4
+2020-02-01,Massachusetts,3.3
+2020-03-01,Massachusetts,3.0
+2020-04-01,Massachusetts,16.0
+2020-05-01,Massachusetts,16.5
+2020-06-01,Massachusetts,17.5
+2019-01-01,Michigan,5.0
+2019-02-01,Michigan,4.5
+2019-03-01,Michigan,4.6
+2019-04-01,Michigan,3.7
+2019-05-01,Michigan,3.7
+2019-06-01,Michigan,4.3
+2019-07-01,Michigan,5.1
+2019-08-01,Michigan,4.2
+2019-09-01,Michigan,3.5
+2019-10-01,Michigan,3.5
+2019-11-01,Michigan,3.2
+2019-12-01,Michigan,3.6
+2020-01-01,Michigan,4.3
+2020-02-01,Michigan,3.6
+2020-03-01,Michigan,4.0
+2020-04-01,Michigan,23.6
+2020-05-01,Michigan,20.8
+2020-06-01,Michigan,14.9
+2019-01-01,Nevada,4.5
+2019-02-01,Nevada,4.2
+2019-03-01,Nevada,4.1
+2019-04-01,Nevada,3.9
+2019-05-01,Nevada,3.8
+2019-06-01,Nevada,4.1
+2019-07-01,Nevada,4.1
+2019-08-01,Nevada,3.9
+2019-09-01,Nevada,3.7
+2019-10-01,Nevada,3.6
+2019-11-01,Nevada,3.4
+2019-12-01,Nevada,3.4
+2020-01-01,Nevada,3.8
+2020-02-01,Nevada,3.8
+2020-03-01,Nevada,6.9
+2020-04-01,Nevada,30.1
+2020-05-01,Nevada,25.1
+2020-06-01,Nevada,15.2
+2019-01-01,New Hampshire,3.0
+2019-02-01,New Hampshire,3.0
+2019-03-01,New Hampshire,2.9
+2019-04-01,New Hampshire,2.5
+2019-05-01,New Hampshire,2.4
+2019-06-01,New Hampshire,2.5
+2019-07-01,New Hampshire,2.5
+2019-08-01,New Hampshire,2.5
+2019-09-01,New Hampshire,2.3
+2019-10-01,New Hampshire,2.2
+2019-11-01,New Hampshire,2.3
+2019-12-01,New Hampshire,2.3
+2020-01-01,New Hampshire,3.1
+2020-02-01,New Hampshire,3.1
+2020-03-01,New Hampshire,2.8
+2020-04-01,New Hampshire,17.2
+2020-05-01,New Hampshire,15.3
+2020-06-01,New Hampshire,11.7
+2019-01-01,New Jersey,4.3
+2019-02-01,New Jersey,4.1
+2019-03-01,New Jersey,3.7
+2019-04-01,New Jersey,2.8
+2019-05-01,New Jersey,3.0
+2019-06-01,New Jersey,3.3
+2019-07-01,New Jersey,3.9
+2019-08-01,New Jersey,3.7
+2019-09-01,New Jersey,3.4
+2019-10-01,New Jersey,3.4
+2019-11-01,New Jersey,3.5
+2019-12-01,New Jersey,3.6
+2020-01-01,New Jersey,4.4
+2020-02-01,New Jersey,4.2
+2020-03-01,New Jersey,3.7
+2020-04-01,New Jersey,15.9
+2020-05-01,New Jersey,15.1
+2020-06-01,New Jersey,16.4
+2019-01-01,New York,4.8
+2019-02-01,New York,4.5
+2019-03-01,New York,4.2
+2019-04-01,New York,3.6
+2019-05-01,New York,3.6
+2019-06-01,New York,3.8
+2019-07-01,New York,4.2
+2019-08-01,New York,4.1
+2019-09-01,New York,3.6
+2019-10-01,New York,3.7
+2019-11-01,New York,3.6
+2019-12-01,New York,3.7
+2020-01-01,New York,4.1
+2020-02-01,New York,3.9
+2020-03-01,New York,4.2
+2020-04-01,New York,15.1
+2020-05-01,New York,14.2
+2020-06-01,New York,15.6
